@@ -1,14 +1,16 @@
 # 👩‍💻 Leticia Cabañas Morales
  
-Soy Licenciada en Bioquímica con más de 14 años de experiencia en la industria Farmacéutica, en el campo de las Validaciones y la Garantía de Calidad. Durante mi trayectoria, 
-siempre me ha apasionado el análisis de datos y la optimización de procesos, lo que me ha llevado a dar un giro en mi carrera hacia el mundo del **Big Data, Machine Learning e Inteligencia Artificial**. 
+Soy Licenciada en Bioquímica con más de 14 años de experiencia en la industria Farmacéutica, en el ámbito de las Validaciones y Calidad. Durante mi trayectoria, 
+siempre me ha apasionado el análisis de datos y la optimización de procesos, lo que me ha llevado a dar un giro en mi carrera hacia el mundo del **Big Data, Machine Learning e Inteligencia Artificial**.
 
 ---
 ## 🌱 Sobre mí
  
-Apasionada por el mundo de los datos, la automatización y la IA aplicada.
+Me motiva estar en continua evolución, seguir aprendiendo creo que es fundamental para desarrollar las capacidades individuales y generar valor añadido.
 
-Formándome en Full Stack Bootcamp Big Data, Data Science, ML & IA de KeepCoding. Estoy adquiriendo habilidades avanzadas y desarrollando proyectos prácticos con tecnologías punteras.
+Creo que el análisis de datos, la automatización y la inteligencia artificial aplicada son campos con un enorme potencial para transformar procesos y mejorar la toma de decisiones.
+
+Formándome en **Full Stack Bootcamp Big Data, Data Science, ML & IA de KeepCoding**. Estoy adqiriendo las habilidades necesarias y desarrollando proyectos prácticos con tecnologías punteras.
 
 ---
 
