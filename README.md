@@ -27,7 +27,7 @@ Formándome en Full Stack Bootcamp Big Data, Data Science, ML & IA de KeepCoding
 
 ---
 
-## 📊 Proyectos :
+## 📂  Repositorios :
 
 * [Practica Big Data Architecture: ElasticSearch_Hadoop](https://github.com/Leticia2512/Practica-BigData_Architecture)
 
