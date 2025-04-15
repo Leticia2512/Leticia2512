@@ -47,7 +47,7 @@ Formándome en Full Stack Bootcamp Big Data, Data Science, ML & IA de KeepCoding
 ___
 
 ## 📫 Contacto
-**LinkedIn:** [Leticia Cabañas Morales](https://www.linkedin.com/in/leticiacabanasmorales/)
+**LinkedIn:** [Leticia Cabañas Morales](www.linkedin.com/in/leticiacabañasmorales)
 
 **Email:** [leticia.c.morales@gmail.com](mailto:leticia.c.morales@gmail.com)
 
