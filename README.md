@@ -1,6 +1,6 @@
 # 👩‍💻 Leticia Cabañas Morales
  
-Soy Licenciada en Bioquímica con más de 14 años de experiencia en la industria Farmacéutica, en el ámbito de las Validaciones y Garantía de Calidad. Durante mi trayectoria, 
+Soy Licenciada en Bioquímica con más de 14 años de experiencia en la industria Farmacéutica, en el ámbito de las Validaciones y Cualificaciones. Durante mi trayectoria, 
 siempre me ha apasionado el análisis de datos y la optimización de procesos, lo que me ha llevado a dar un giro en mi carrera hacia el mundo del **Big Data, Machine Learning e Inteligencia Artificial**.
 
 ---
