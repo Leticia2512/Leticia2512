@@ -29,7 +29,7 @@ Actualmente me estoy formando en el Full Stack Bootcamp Big Data, Data Science, 
 
 ---
 
-## 📂  Repositorios :
+## 📂  Proyectos:
 
 * [Practica Big Data Architecture: ElasticSearch_Hadoop](https://github.com/Leticia2512/Practica-BigData_Architecture)
 
@@ -44,6 +44,10 @@ Actualmente me estoy formando en el Full Stack Bootcamp Big Data, Data Science, 
 * [Práctica Exploración & visualización de Datos: Power BI](https://github.com/Leticia2512/Practica-Exploracion-Visualizacion-de-Datos)
 
 * [Práctica Git-GitHub](https://github.com/Leticia2512/Practica-Git-GitHub)
+
+* [Práctica Big Data Processing: Spark & Scala](https://github.com/Leticia2512/Practica-Big-Data-Processing)
+  
+ 
 
 
 ___
