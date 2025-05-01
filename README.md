@@ -6,11 +6,11 @@ siempre me ha apasionado el análisis de datos y la optimización de procesos, l
 ---
 ## 🌱 Sobre mí
  
-Me motiva estar en continua evolución, seguir aprendiendo creo que es fundamental para desarrollar las capacidades individuales y generar valor añadido.
+Me motiva estar en constante evolución. Creo firmemente que seguir aprendiendo es clave para desarrollar nuestras capacidades y aportar un verdadero valor añadido.
 
-Creo que el análisis de datos, la automatización y la inteligencia artificial aplicada son campos con un enorme potencial para transformar procesos y mejorar la toma de decisiones.
+El análisis de datos, la automatización y la inteligencia artificial aplicada son áreas con un enorme potencial para transformar procesos y mejorar la toma de decisiones en cualquier ámbito.
 
-Formándome en **Full Stack Bootcamp Big Data, Data Science, ML & IA de KeepCoding**. Estoy adqiriendo las habilidades necesarias y desarrollando proyectos prácticos con tecnologías punteras.
+Actualmente me estoy formando en el Full Stack Bootcamp Big Data, Data Science, ML & IA de KeepCoding, donde estoy adquiriendo habilidades sólidas y desarrollando proyectos prácticos con tecnologías de vanguardia.
 
 ---
 
