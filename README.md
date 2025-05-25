@@ -37,7 +37,7 @@ Actualmente me estoy formando en el Full Stack Bootcamp Big Data, Data Science, 
 
 * [Reto Álgebra Lineal Método SVD: Python](https://github.com/Leticia2512/Reto-Matematicas_Algebra-Lineal-SVD-imagenes)
 
-* [Práctica Estadística_DataMining: R](https://github.com/Leticia2512/Practica-Matematicas_Estadistica_DataMining)
+* [Práctica Estadística_DataMining: RStudio](https://github.com/Leticia2512/Practica-Matematicas_Estadistica_DataMining)
 
 * [Práctica SQL_DataWarehouse](https://github.com/Leticia2512/Practica-SQL-ETL-DataWarehouse)
 
@@ -47,8 +47,9 @@ Actualmente me estoy formando en el Full Stack Bootcamp Big Data, Data Science, 
 
 * [Práctica Big Data Processing: Spark & Scala](https://github.com/Leticia2512/Practica-Big-Data-Processing)
   
+* [Práctica Machine Learning:Python, scikit-learn](https://github.com/Leticia2512/Practica-Machine_Learning)
+  
  
-
 
 ___
 
