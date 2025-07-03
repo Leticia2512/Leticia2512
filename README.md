@@ -17,15 +17,13 @@ Actualmente me estoy formando en el Full Stack Bootcamp Big Data, Data Science, 
 ## 🛠️ Habilidades y Tecnologías
 
 
-| **Categoría**               | **Tecnologías**                                                                 |
-|----------------------------|---------------------------------------------------------------------------------|
-| 🖥️ **Lenguajes**            | `Python`, `R`, `SQL`, `Scala`                                                   |
-| 📚 **Librerías & Frameworks**| `NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`                                 |
-| 🧠 **IA & LLMs**            | `TensorFlow`, `Keras`, `LLMs`                                                   |
-| 📦 **Entornos & Herramientas**| `Google Colab`, `Anaconda`, `Docker`                                          |
-| 🗄️ **Bases de Datos**       | `PostgreSQL`, `MongoDB`, `BigQuery`                                             |
-| ☁️ **Big Data & Cloud**     | `Google Cloud`, `Azure`, `Hadoop`, `Hive`, `Apache Spark`, `Kafka`, `Elasticsearch`, `Kibana` |
-| 📊 **Visualización de Datos**| `Power BI`, `Matplotlib`            
+| **Área**                  | **Tecnologías**                                                                                     |
+|--------------------------|------------------------------------------------------------------------------------------------------|
+| 🖥️ Lenguajes & Entornos    | `Python`, `R`, `SQL`, `Google Colab`, `Anaconda`, `Docker`                                          |
+| 📚 Data Science & ML Tools | `NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `MLflow`, `Power BI`                              |
+| 🧠 Deep Learning & NLP     | `PyTorch`, `Keras`, `spaCy`, `Transformers`, `Hugging Face`, `OpenAI API`                          |
+| ☁️ Big Data & Cloud        | `PostgreSQL`, `MongoDB`, `BigQuery`, `Google Cloud`, `Hadoop`, `Spark`, `Kafka`, `Kibana`          |
+          
 
 ---
 
