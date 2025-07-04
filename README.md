@@ -1,28 +1,18 @@
-# 👩‍💻 Leticia Cabañas Morales
- 
-Soy Licenciada en Bioquímica con más de 14 años de experiencia en la industria Farmacéutica, en el ámbito de las Validaciones y Cualificaciones. Durante mi trayectoria, 
-siempre me ha apasionado el análisis de datos y la optimización de procesos, lo que me ha llevado a dar un giro en mi carrera hacia el mundo del **Big Data, Machine Learning e Inteligencia Artificial**.
+# Leticia Cabañas Morales · Data Scientist | Big Data | Sector Farmacéutico
 
----
-## 🌱 Sobre mí
- 
-Me motiva estar en constante evolución. Creo firmemente que seguir aprendiendo es clave para desarrollar nuestras capacidades y aportar un verdadero valor añadido.
-
-El análisis de datos, la automatización y la inteligencia artificial aplicada son áreas con un enorme potencial para transformar procesos y mejorar la toma de decisiones en cualquier ámbito.
-
-Actualmente me estoy formando en el Full Stack Bootcamp Big Data, Data Science, ML & IA de KeepCoding, donde estoy adquiriendo habilidades sólidas y desarrollando proyectos prácticos con tecnologías de vanguardia.
+Licenciada en Bioquímica con sólida trayectoria en la industria farmacéutica, especializada en Validaciones y Cualificaciones. Tras más de una década gestionando procesos clave en entornos regulados, he ampliado mi perfil con formación intensiva en Big Data, Machine Learning e Inteligencia Artificial a través del Bootcamp Full Stack de KeepCoding.
 
 ---
 
-## 🛠️ Habilidades y Tecnologías
+## 🧠 Habilidades Técnicas
 
 
 | **Área**                  | **Tecnologías**                                                                                     |
 |--------------------------|------------------------------------------------------------------------------------------------------|
-| 🖥️ Lenguajes & Entornos    | `Python`, `R`, `SQL`, `Google Colab`, `Anaconda`, `Docker`                                          |
-| 📚 Data Science & ML Tools | `NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `MLflow`, `Power BI`                              |
-| 🧠 Deep Learning & NLP     | `PyTorch`, `Keras`, `spaCy`, `Transformers`, `Hugging Face`, `OpenAI API`                          |
-| ☁️ Big Data & Cloud        | `PostgreSQL`, `MongoDB`, `BigQuery`, `Google Cloud`, `Hadoop`, `Spark`, `Kafka`, `Kibana`          |
+| Lenguajes & Entornos    | `Python`, `R`, `SQL`, `Google Colab`, `Anaconda`, `Docker`                                          |
+| Data Science & ML Tools | `NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `MLflow`, `Power BI`, `Excel`                           |
+| Deep Learning & NLP     | `PyTorch`, `Keras`, `spaCy`, `Transformers`, `Hugging Face`, `OpenAI API`                          |
+| Big Data & Cloud        | `PostgreSQL`, `MongoDB`, `BigQuery`, `Google Cloud`, `Hadoop`, `Spark`, `Kafka`, `Kibana`          |
           
 
 ---
