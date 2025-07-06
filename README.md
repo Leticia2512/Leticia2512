@@ -4,7 +4,7 @@ Licenciada en Bioquímica con sólida trayectoria en la industria farmacéutica,
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
 
 | **Área**                  | **Tecnologías**                                                                                     |
