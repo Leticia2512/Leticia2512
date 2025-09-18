@@ -11,7 +11,7 @@ Licenciada en Bioquímica con sólida trayectoria en la industria farmacéutica,
 |--------------------------|------------------------------------------------------------------------------------------------------|
 | Lenguajes & Entornos    | `Python`, `R`, `SQL`, `Google Colab`, `Anaconda`, `Docker`                                          |
 | Data Science & ML Tools | `NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `MLflow`, `Power BI`, `Excel`                           |
-| Deep Learning & NLP     | `PyTorch`, `Keras`, `spaCy`, `Transformers`, `Hugging Face`, `OpenAI API`                          |
+| Deep Learning & NLP     | `PyTorch`, `spaCy`, `Transformers`, `Hugging Face`, `OpenAI API`                          |
 | Big Data & Cloud        | `PostgreSQL`, `MongoDB`, `BigQuery`, `Google Cloud`, `Hadoop`, `Spark`, `Kafka`, `Kibana`          |
           
 
