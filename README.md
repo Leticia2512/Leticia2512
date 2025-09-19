@@ -1,6 +1,6 @@
 # Leticia Cabañas Morales · Data Scientist | Big Data | Sector Farmacéutico
 
-Licenciada en Bioquímica con sólida trayectoria en la industria farmacéutica, especializada en Validaciones y Cualificaciones. Tras más de una década gestionando procesos clave en entornos regulados, he ampliado mi perfil con formación intensiva en Big Data, Machine Learning e Inteligencia Artificial a través del Bootcamp Full Stack de KeepCoding.
+Licenciada en Bioquímica con amplia experiencia en la industria farmacéutica, especializada en Validaciones y Cualificaciones en entornos altamente regulados. Tras más de una década gestionando procesos críticos y garantizando el cumplimiento normativo, he ampliado mi perfil con formación intensiva en **Big Data, Machine Learning e Inteligencia Artificial** a través del Bootcamp Full Stack de KeepCoding, integrando así conocimiento científico y tecnológico para desarrollar soluciones basadas en datos.
 
 ---
 
