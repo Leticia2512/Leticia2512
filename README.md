@@ -37,6 +37,8 @@ Licenciada en Bioquímica con amplia experiencia en la industria farmacéutica, 
   
 * [Práctica Machine Learning:Python, scikit-learn](https://github.com/Leticia2512/Practica-Machine_Learning)
   
+*  [Práctica Deep Learning:Python, Pytorch](https://github.com/Leticia2512/Practica_Deep_Learning)
+  
  
 
 ___
